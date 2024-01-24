@@ -1,0 +1,5 @@
+nama
+umur
+pekerjaan
+menambahkan data baru
+dan baris baru
